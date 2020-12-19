@@ -3,7 +3,10 @@ title: Home
 sections:
   - type: hero_section
     title: We Are Here For You
-    subtitle: ''
+    subtitle: >-
+      Stackbit is the first open, complete platform for the Jamstack — it's the
+      easiest way ... From there, Stackbit Studio helps you style your page, do
+      inline editing and
     actions:
       - label: Learn More
         url: /features
