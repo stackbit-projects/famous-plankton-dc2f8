@@ -15,7 +15,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/gordon-norman.jpg
+    image: images/4.png
     image_position: right
     has_background: true
     background:
