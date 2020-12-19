@@ -15,7 +15,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/myslide1.jpg
+    image: images/gordon-norman.jpg
     image_position: right
     has_background: true
     background:
