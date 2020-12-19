@@ -17,7 +17,7 @@
             {
                 "label": "SERVICES",
                 "url": "/about",
-                "style": "link"
+                "style": "primary"
             },
             {
                 "label": "Style Guide",
